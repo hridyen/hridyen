@@ -1,35 +1,34 @@
 <h1 align="center">Hi, I'm Hridyen Prashar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Building+Scalable+Systems;Cloud+%7C+Docker+%7C+Kubernetes;Automation+First+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=F7D02C&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Leveling+Up+in+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+AWS;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=140&section=header"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## Power Level
+## Player Stats
 
-- Cloud Infrastructure  
-- Containerization & Orchestration  
-- Automation Systems  
-- Linux & Networking  
+- Level: DevOps Engineer (Grinding)  
+- Skills: Cloud, Docker, Kubernetes, Automation  
+- Current Mission: Production-ready systems  
 
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hridyen&theme=onestar&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=hridyen&theme=gruvbox&no-frame=true)
 
 ---
 
 ## Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes&logoColor=blue)
-![Terraform](https://img.shields.io/badge/Terraform-111?style=for-the-badge&logo=terraform&logoColor=purple)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
 ---
 
@@ -44,6 +43,5 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridyen&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=hridyen&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hridyen&theme=gruvbox&hide_border=true"/>
 </p>
