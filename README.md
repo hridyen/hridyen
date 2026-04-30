@@ -1,5 +1,7 @@
-# 💫 About Me:
 # Hi, I'm Hridyen Prashar
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hridyen&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 I’m a DevOps-focused engineer building practical, production-style infrastructure systems.  
 My focus is on cloud infrastructure, containerization, automation, and scalable backend systems.
@@ -84,12 +86,6 @@ focused on scalable, production-ready systems.
 ![](https://github-readme-stats.shion.dev/api?username=hridyen&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://streak-stats.demolab.com/?user=hridyen&theme=cobalt&hide_border=false)  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hridyen&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hridyen&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
