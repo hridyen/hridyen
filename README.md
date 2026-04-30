@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <!-- Subtle ninja vibe -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=130&section=header"/>
 </p>
 
@@ -24,7 +23,6 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
 ## 🥷 GitHub Activity
 
 <p align="center">
-  <!-- Naruto running (pixel-ish ninja vibe) -->
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="140"/>
   <br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -54,30 +52,24 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
 ![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/bash-111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-111?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![Dart](https://img.shields.io/badge/dart-111?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 ---
 
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/react-111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-111?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Laravel](https://img.shields.io/badge/laravel-111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Bootstrap](https://img.shields.io/badge/bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+### 📱 App Development
+![Flutter](https://img.shields.io/badge/flutter-111?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ---
 
 ### 🗄️ Databases & Monitoring
-![Postgres](https://img.shields.io/badge/postgres-111?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/mongodb-111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Grafana](https://img.shields.io/badge/grafana-111?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/prometheus-111?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![SonarQube](https://img.shields.io/badge/sonarqube-111?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ---
 
-### 🎨 Tools & Others
+### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/git-111?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-111?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
