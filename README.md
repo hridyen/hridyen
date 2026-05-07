@@ -11,12 +11,15 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/JbpG-0U9sJIAAAAd/naruto-sasuke.gif" width="100%"/>
+  <img 
+    src="https://media.tenor.com/JbpG-0U9sJIAAAAd/naruto-sasuke.gif"
+    width="900"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hridyen&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
@@ -24,7 +27,7 @@
 
 ---
 
-## 🥷 About Me
+# 🥷 About Me
 
 I’m a DevOps-focused engineer building practical, production-style infrastructure systems.
 
@@ -37,7 +40,7 @@ Focused on:
 
 ---
 
-## ⚡ GitHub Activity
+# ⚡ GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
