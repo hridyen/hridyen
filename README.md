@@ -149,13 +149,22 @@ Focused on:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridyen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=hridyen&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hridyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hridyen&theme=tokyonight&hide_border=true&background=0D1117"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyen&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    height="180"
+  />
 </p>
 
 ---
