@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🧱 Hi, I'm Hridyen Prashar</h1>
 
 <p align="center">
@@ -106,7 +105,7 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
   <a href="https://linkedin.com/in/hridyen%20prashar">
     <img src="https://img.shields.io/badge/LinkedIn-2B2D42?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  
+
   <a href="mailto:hridyensharma0@gmail.com">
     <img src="https://img.shields.io/badge/Email-2B2D42?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
@@ -117,4 +116,3 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-```
