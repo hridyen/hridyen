@@ -20,11 +20,16 @@
 
 <table>
 <tr>
-<td width="32%">
 
-<img src="https://avatars.githubusercontent.com/u/116689648?v=4" width="100%" style="border-radius:20px;" />
+<td width="32%" valign="top">
 
-<br/><br/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hridyen/hridyen/main/assets/profile.png" width="100%" style="border-radius:22px;"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -34,7 +39,7 @@
 
 </td>
 
-<td width="68%">
+<td width="68%" valign="top">
 
 ```bash
 > whoami
@@ -55,6 +60,7 @@ Focused on:
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyen&theme=github-compact&hide_border=true&area=true"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -84,6 +90,7 @@ Focused on:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -163,12 +170,22 @@ Programming_&_Tools:
 <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Grafana-111?style=for-the-badge&logo=grafana&logoColor=F46800"/>
 <img src="https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/SonarQube-111?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
 
 </p>
 
 </td>
+
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -189,14 +206,6 @@ Programming_&_Tools:
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
 
 <div align="center">
 
