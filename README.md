@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=100&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hridyen+Prashar;DevOps+Engineer;Building+Scalable+Systems;Cloud+%7C+Docker+%7C+Kubernetes;Automation+First+Mindset"/>
 
 </div>
 
+---
+
 <table>
 <tr>
-<td width="24%" valign="top">
+<td width="25%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hridyen/hridyen/main/assets/profile.png" width="190" style="border-radius:50%;" />
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/hridyen/hridyen/main/assets/profile.png" width="190"/>
 
 <h2>Hridyen Prashar</h2>
 
@@ -25,59 +25,45 @@ Automation First Mindset
 <br/>
 
 <a href="https://linkedin.com/in/hridyen%20prashar">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<br/>
-
-<a href="mailto:hridyensharma0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/hridyen">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hridyen&style=flat-square&color=00E676"/>
+<a href="mailto:hridyensharma0@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-</div>
+<br/><br/>
+
+<a href="https://github.com/hridyen">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="76%" valign="top">
-
-<h1>Hi, I'm Hridyen Prashar</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00E676&vCenter=true&width=760&lines=DevOps+Engineer;Building+Scalable+Systems;Cloud+%7C+Docker+%7C+Kubernetes;Automation+First+Mindset"/>
-
-<br/>
+<td width="75%" valign="top">
 
 ```bash
-I’m a DevOps-focused engineer building practical, production-style infrastructure systems.
+> whoami
 
-Focused on cloud infrastructure, containerization, automation, and scalable backend systems.
+Hridyen Prashar
+
+I’m a DevOps-focused engineer building practical,
+production-style infrastructure systems.
+
+Focused on cloud infrastructure, containerization,
+automation, and scalable backend systems.
 ```
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hridyen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hridyen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hridyen&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%"/>
 
-</td>
-<td width="50%" valign="top">
-
-<img src="https://streak-stats.demolab.com?user=hridyen&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 </td>
 </tr>
@@ -142,6 +128,14 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="38%"/>
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="35%" valign="top">
@@ -164,29 +158,21 @@ Focused on cloud infrastructure, containerization, automation, and scalable back
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://raw.githubusercontent.com/hridyen/hridyen/output/github-contribution-grid-snake-dark.svg"/>
 
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
 
 <div align="center">
 
