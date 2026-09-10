@@ -1,63 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:111827,100:1F2937&height=260&section=header&text=HRIDYEN%20PRASHAR&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=42&desc=DevOps%20Engineer%20•%20Cloud%20Infrastructure%20•%20Automation%20First&descAlignY=65&descSize=18"/>
+# HRIDYEN PRASHAR
+
+### DevOps Engineer • Cloud Infrastructure • Automation
+
+**Building production-style infrastructure, deployment systems and cloud automation.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production-Style+Infrastructure;Cloud+%7C+Docker+%7C+Kubernetes;Scalable+Systems+Engineer;CI%2FCD+%7C+Automation+%7C+DevOps"/>
+<a href="https://github.com/hridyen">
+<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hridyen-prashar/">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:hridyensharma0@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS-0B0F19?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-0B0F19?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0B0F19?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Jenkins-0B0F19?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/Terraform-0B0F19?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Designing+Production-Style+Infrastructure;Automating+Deployments+with+CI%2FCD;Cloud+%7C+Containers+%7C+Kubernetes;Infrastructure+as+Code+%7C+Observability;Building+Systems%2C+Not+Just+Scripts"/>
 
 </div>
 
 ---
 
+## `whoami`
+
+```bash
+$ whoami
+
+Hridyen Prashar
+
+DevOps-focused engineer interested in building reliable,
+automated and production-style infrastructure systems.
+
+I work across:
+
+→ Cloud Infrastructure
+→ CI/CD & Deployment Automation
+→ Docker & Kubernetes
+→ Infrastructure as Code
+→ Linux & Networking
+→ Monitoring & Observability
+→ Automation with Python & Bash
+→ System Design & Troubleshooting
+```
+
+> **My approach:** understand the system → automate the repetitive parts → make failures visible → design for reliability.
+
+---
+
+## ⚙️ What I Build
+
 <table>
 <tr>
 
-<td width="32%" valign="top">
+<td width="25%" align="center">
 
-<div align="center">
+### ☁️ Cloud
 
-<img src="https://raw.githubusercontent.com/hridyen/hridyen/main/assets/profile.png" width="100%" style="border-radius:22px;"/>
+AWS • Azure • GCP
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hridyen&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=3"/>
-
-</div>
+Infrastructure
+Networking
+Compute
+Storage
+Security
 
 </td>
 
-<td width="68%" valign="top">
+<td width="25%" align="center">
 
-```bash
-> whoami
+### 🚀 CI/CD
 
-Hridyen Prashar
-DevOps-focused engineer building practical,
-production-style infrastructure systems.
+Jenkins
+Git
+Docker
+Automated Builds
+Deployment Pipelines
 
-Focused on:
-- Cloud Infrastructure
-- Containerization
-- Automation
-- Scalable Backend Systems
-```
+</td>
 
-<br/>
+<td width="25%" align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyen&theme=github-compact&hide_border=true&area=true"/>
+### 📦 Containers
+
+Docker
+Kubernetes
+Containerized Apps
+Reverse Proxies
+Service Architecture
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Reliability
+
+Prometheus
+Grafana
+Logs
+Monitoring
+Troubleshooting
 
 </td>
 
@@ -66,11 +112,156 @@ Focused on:
 
 ---
 
+# 🏗️ Featured Engineering Projects
+
+> I focus on projects that demonstrate **real engineering decisions**, not just tool installation.
+
+### 🚦 Branch-Aware CI/CD Platform
+
+**Production-style Jenkins pipeline designed around Git branch awareness.**
+
+```text
+Developer
+    │
+    ▼
+    Git
+    │
+    ▼
+Branch Detection
+    │
+    ├── feature/*
+    ├── develop
+    └── main
+          │
+          ▼
+      Jenkins
+          │
+          ├── Validate
+          ├── Test
+          ├── Build
+          ├── Docker Image
+          └── Deploy
+```
+
+**Focus**
+
+`Git` `Jenkins` `Docker` `CI/CD` `Linux` `Automation`
+
+**Engineering concepts demonstrated**
+
+* Branch-aware pipeline behavior
+* Automated build workflows
+* Docker image creation
+* Environment-aware deployments
+* Pipeline troubleshooting
+* CI/CD architecture
+* Production-style workflow design
+
+<br/>
+
+### 🔧 TaskFlow
+
+A practical automation-oriented project focused on turning repetitive operational tasks into a structured workflow.
+
+**Focus**
+
+`Automation` `Python` `Linux` `Git` `DevOps`
+
+<br/>
+
+### ☁️ Cloud Infrastructure Projects
+
+Hands-on infrastructure experiments covering:
+
+* AWS infrastructure
+* Linux administration
+* Networking
+* Deployment automation
+* Infrastructure as Code
+* Containerized services
+* Monitoring
+
+---
+
+## 🧠 Engineering Mindset
+
+```text
+                     ┌───────────────────┐
+                     │     APPLICATION   │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                     ┌───────────────────┐
+                     │       CI/CD       │
+                     │ Git → Jenkins     │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                     ┌───────────────────┐
+                     │    CONTAINERS     │
+                     │      Docker       │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                     ┌───────────────────┐
+                     │ ORCHESTRATION     │
+                     │    Kubernetes     │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                     ┌───────────────────┐
+                     │ CLOUD / INFRA     │
+                     │ AWS • Terraform   │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                     ┌───────────────────┐
+                     │ OBSERVABILITY     │
+                     │ Prometheus/Grafana│
+                     └───────────────────┘
+```
+
+---
+
+# 🛠️ Technology Stack
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible"/>
+</p>
+
+### Containers & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,nginx"/>
+</p>
+
+### Programming & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,java,javascript"/>
+</p>
+
+### Monitoring & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mongodb"/>
+</p>
+
+---
+
+# 📈 GitHub Activity
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=hridyen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyen&theme=github-compact&hide_border=true&area=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=hridyen&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=hridyen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=hridyen&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
@@ -80,6 +271,8 @@ Focused on:
 
 ---
 
+# 🐍 Contribution Activity
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -88,119 +281,65 @@ Focused on:
 
 ---
 
-<table>
-<tr>
+# 📚 Currently Building
 
-<td width="50%" valign="top">
-
-<div align="center">
-
-```yaml
-Cloud_&_DevOps:
-  - AWS
-  - Azure
-  - GCP
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Jenkins
-  - Ansible
-  - Nginx
-  - Apache
+```text
+01  Production-style CI/CD systems
+02  Cloud infrastructure & architecture
+03  Dockerized application environments
+04  Kubernetes deployments
+05  Infrastructure automation
+06  Monitoring & observability
+07  Python-based DevOps automation
+08  Incident diagnosis & troubleshooting
 ```
-
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Terraform-111?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Ansible-111?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-111?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx&logoColor=009639"/>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-```yaml
-Programming_&_Tools:
-  - Java
-  - JavaScript
-  - Python
-  - Bash
-  - PowerShell
-  - Flutter
-  - MongoDB
-  - Grafana
-  - Prometheus
-  - SonarQube
-```
-
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-111?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
-<img src="https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Grafana-111?style=for-the-badge&logo=grafana&logoColor=F46800"/>
-<img src="https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
-<img src="https://img.shields.io/badge/SonarQube-111?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
-
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-<div align="center">
+# 🎯 What I'm Working Toward
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> Building the ability to take an application from **code → infrastructure → deployment → monitoring → troubleshooting**.
 
-</div>
+```text
+CODE
+  ↓
+VERSION CONTROL
+  ↓
+CI/CD
+  ↓
+CONTAINERIZATION
+  ↓
+INFRASTRUCTURE
+  ↓
+DEPLOYMENT
+  ↓
+OBSERVABILITY
+  ↓
+RELIABILITY
+```
 
 ---
 
+# 🤝 Let's Connect
+
 <div align="center">
 
-<a href="https://linkedin.com/in/hridyen%20prashar">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+I'm interested in:
+
+**DevOps • Cloud Engineering • Platform Engineering • Infrastructure Automation**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/hridyen-prashar/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hridyensharma0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hridyen">
-  <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -209,6 +348,10 @@ Programming_&_Tools:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,50:111827,100:0B0F19&height=120&section=footer"/>
+### `Automate what can be automated. Understand what cannot.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:111827,100:1F2937&height=100&section=footer"/>
 
 </div>
