@@ -1,26 +1,22 @@
 <div align="center">
 
-# HRIDYEN PRASHAR
-
-### DevOps Engineer • Cloud Infrastructure • Automation
-
-**Building production-style infrastructure, deployment systems and cloud automation.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:0B1220,100:111827&height=230&section=header&text=HRIDYEN%20PRASHAR&fontSize=50&fontColor=E5E7EB&animation=fadeIn&fontAlignY=42&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20INFRASTRUCTURE%20%7C%20AUTOMATION&descAlignY=65&descSize=16&descColor=94A3B8"/>
 
 <br/>
 
-<a href="https://github.com/hridyen">
-<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hridyen-prashar/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:hridyensharma0@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Building+production-style+infrastructure;Designing+reliable+CI%2FCD+systems;Automating+cloud+operations;Containers+%7C+Kubernetes+%7C+Infrastructure+as+Code;Engineering+systems%2C+not+just+scripts"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Designing+Production-Style+Infrastructure;Automating+Deployments+with+CI%2FCD;Cloud+%7C+Containers+%7C+Kubernetes;Infrastructure+as+Code+%7C+Observability;Building+Systems%2C+Not+Just+Scripts"/>
+<a href="https://github.com/hridyen">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
+</a>
+<a href="https://www.linkedin.com/in/hridyen-prashar/">
+<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:hridyensharma0@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
@@ -28,222 +24,274 @@
 
 ## `whoami`
 
-```bash
-$ whoami
-
+```text
 Hridyen Prashar
+DevOps Engineer
 
-DevOps-focused engineer interested in building reliable,
-automated and production-style infrastructure systems.
+Building practical, production-style infrastructure systems
+with a focus on automation, reliability and repeatability.
 
-I work across:
+Core areas:
 
-→ Cloud Infrastructure
-→ CI/CD & Deployment Automation
-→ Docker & Kubernetes
-→ Infrastructure as Code
-→ Linux & Networking
-→ Monitoring & Observability
-→ Automation with Python & Bash
-→ System Design & Troubleshooting
+  Cloud Infrastructure
+  CI/CD Engineering
+  Containerization
+  Infrastructure as Code
+  Linux & Networking
+  Monitoring & Observability
+  DevOps Automation
 ```
 
-> **My approach:** understand the system → automate the repetitive parts → make failures visible → design for reliability.
+I am particularly interested in understanding **how systems behave in production** — how code moves from a developer's machine into infrastructure, how deployments are automated, how failures are detected, and how systems can be made easier to operate.
 
 ---
 
-## ⚙️ What I Build
+# Engineering Focus
 
 <table>
 <tr>
-
 <td width="25%" align="center">
 
-### ☁️ Cloud
+### CLOUD
 
-AWS • Azure • GCP
-
-Infrastructure
+AWS
+Azure
+GCP
 Networking
 Compute
 Storage
-Security
 
 </td>
 
 <td width="25%" align="center">
 
-### 🚀 CI/CD
+### DELIVERY
 
-Jenkins
 Git
+Jenkins
+CI/CD
 Docker
-Automated Builds
-Deployment Pipelines
+Release Automation
+Deployment Strategies
 
 </td>
 
 <td width="25%" align="center">
 
-### 📦 Containers
+### INFRASTRUCTURE
 
-Docker
+Terraform
+Ansible
+Linux
+Nginx
 Kubernetes
-Containerized Apps
-Reverse Proxies
-Service Architecture
+Infrastructure Automation
 
 </td>
 
 <td width="25%" align="center">
 
-### 📊 Reliability
+### OBSERVABILITY
 
 Prometheus
 Grafana
 Logs
+Metrics
 Monitoring
-Troubleshooting
+Incident Analysis
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🏗️ Featured Engineering Projects
+# Featured Engineering Work
 
-> I focus on projects that demonstrate **real engineering decisions**, not just tool installation.
+## 01 — Branch-Aware CI/CD Platform
 
-### 🚦 Branch-Aware CI/CD Platform
-
-**Production-style Jenkins pipeline designed around Git branch awareness.**
+A production-style Jenkins pipeline designed around Git branch awareness and environment-specific behaviour.
 
 ```text
-Developer
-    │
-    ▼
-    Git
-    │
-    ▼
-Branch Detection
-    │
-    ├── feature/*
-    ├── develop
-    └── main
-          │
-          ▼
-      Jenkins
-          │
-          ├── Validate
-          ├── Test
-          ├── Build
-          ├── Docker Image
-          └── Deploy
+                         DEVELOPER
+                             |
+                             v
+                       +-------------+
+                       |     GIT     |
+                       +------+------+
+                              |
+                       Branch Detection
+                              |
+                +-------------+-------------+
+                |             |             |
+                v             v             v
+             feature/*     develop         main
+                |             |             |
+                +-------------+-------------+
+                              |
+                              v
+                       +-------------+
+                       |   JENKINS   |
+                       +------+------+
+                              |
+             +----------------+----------------+
+             |                |                |
+             v                v                v
+          Validate          Test             Build
+                              |
+                              v
+                       Docker Image
+                              |
+                              v
+                         Deployment
+                              |
+                              v
+                       Monitoring
 ```
 
-**Focus**
+### Engineering Areas
 
 `Git` `Jenkins` `Docker` `CI/CD` `Linux` `Automation`
 
-**Engineering concepts demonstrated**
+### What this project demonstrates
 
-* Branch-aware pipeline behavior
+* Branch-aware pipeline design
 * Automated build workflows
 * Docker image creation
 * Environment-aware deployments
-* Pipeline troubleshooting
-* CI/CD architecture
-* Production-style workflow design
+* CI/CD troubleshooting
+* Pipeline failure analysis
+* Repeatable deployment workflows
+* Production-style engineering practices
 
-<br/>
-
-### 🔧 TaskFlow
-
-A practical automation-oriented project focused on turning repetitive operational tasks into a structured workflow.
-
-**Focus**
-
-`Automation` `Python` `Linux` `Git` `DevOps`
-
-<br/>
-
-### ☁️ Cloud Infrastructure Projects
-
-Hands-on infrastructure experiments covering:
-
-* AWS infrastructure
-* Linux administration
-* Networking
-* Deployment automation
-* Infrastructure as Code
-* Containerized services
-* Monitoring
+[View the project →](https://github.com/hridyen)
 
 ---
 
-## 🧠 Engineering Mindset
+## 02 — TaskFlow
+
+Automation-focused engineering project designed around turning repetitive operational tasks into structured and repeatable workflows.
+
+### Engineering Areas
+
+`Python` `Automation` `Linux` `Git` `DevOps`
+
+### Focus
 
 ```text
-                     ┌───────────────────┐
-                     │     APPLICATION   │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │       CI/CD       │
-                     │ Git → Jenkins     │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │    CONTAINERS     │
-                     │      Docker       │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │ ORCHESTRATION     │
-                     │    Kubernetes     │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │ CLOUD / INFRA     │
-                     │ AWS • Terraform   │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │ OBSERVABILITY     │
-                     │ Prometheus/Grafana│
-                     └───────────────────┘
+Manual Task
+    |
+    v
+Automation Logic
+    |
+    v
+Validation
+    |
+    v
+Execution
+    |
+    v
+Result / Failure Handling
 ```
 
 ---
 
-# 🛠️ Technology Stack
+## 03 — Cloud Infrastructure
 
-### Cloud & Infrastructure
+Hands-on infrastructure work focused on building and understanding cloud environments rather than simply deploying individual services.
+
+### Areas explored
+
+```text
+Cloud Architecture
+      |
+      +-- Compute
+      +-- Networking
+      +-- IAM
+      +-- Storage
+      +-- Security
+      +-- Deployment
+      +-- Monitoring
+```
+
+---
+
+# System Design Philosophy
+
+I approach DevOps as a systems problem.
+
+```text
+                 +-------------------+
+                 |       CODE        |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |   VERSION CONTROL |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |       CI/CD       |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |  CONTAINERIZATION |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |  INFRASTRUCTURE   |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |    DEPLOYMENT     |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |   OBSERVABILITY   |
+                 +---------+---------+
+                           |
+                           v
+                 +-------------------+
+                 |    RELIABILITY    |
+                 +-------------------+
+```
+
+The objective is not simply:
+
+`"Make it work."`
+
+The objective is:
+
+`Make it repeatable → observable → recoverable → scalable.`
+
+---
+
+# Technology Stack
+
+### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 </p>
 
-### Containers & CI/CD
+### Infrastructure & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,nginx"/>
 </p>
 
-### Programming & Automation
+### Development & Automation
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,java,javascript"/>
 </p>
 
-### Monitoring & Databases
+### Monitoring & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,mongodb"/>
@@ -251,107 +299,106 @@ Hands-on infrastructure experiments covering:
 
 ---
 
-# 📈 GitHub Activity
+# Current Engineering Direction
+
+```text
+BUILDING
+
+  Production-style CI/CD
+        |
+        +--> Branch-aware deployments
+        |
+        +--> Containerized workloads
+        |
+        +--> Infrastructure as Code
+        |
+        +--> Kubernetes environments
+        |
+        +--> Observability
+        |
+        +--> Automated operations
+```
+
+My goal is to become capable of taking a system through the complete lifecycle:
+
+```text
+SOURCE
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+PACKAGE
+  ↓
+DEPLOY
+  ↓
+OBSERVE
+  ↓
+TROUBLESHOOT
+  ↓
+IMPROVE
+```
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyen&theme=github-compact&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyen&bg_color=0B1220&color=94A3B8&line=38BDF8&point=E5E7EB&area=true&area_color=0F172A&hide_border=true"/>
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=hridyen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridyen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=E5E7EB&text_color=94A3B8&icon_color=38BDF8"/>
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=hridyen&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridyen&theme=tokyonight&hide_border=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyen&layout=compact&hide_border=true&bg_color=0B1220&title_color=E5E7EB&text_color=94A3B8"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📚 Currently Building
+# Engineering Principles
 
 ```text
-01  Production-style CI/CD systems
-02  Cloud infrastructure & architecture
-03  Dockerized application environments
-04  Kubernetes deployments
-05  Infrastructure automation
-06  Monitoring & observability
-07  Python-based DevOps automation
-08  Incident diagnosis & troubleshooting
+01  Automate repetitive work.
+
+02  Infrastructure should be reproducible.
+
+03  Every deployment should be observable.
+
+04  Failures should be diagnosable.
+
+05  Configuration should be version controlled.
+
+06  Systems should be designed for change.
+
+07  Understand the infrastructure underneath the abstraction.
 ```
 
 ---
 
-# 🎯 What I'm Working Toward
-
-> Building the ability to take an application from **code → infrastructure → deployment → monitoring → troubleshooting**.
-
-```text
-CODE
-  ↓
-VERSION CONTROL
-  ↓
-CI/CD
-  ↓
-CONTAINERIZATION
-  ↓
-INFRASTRUCTURE
-  ↓
-DEPLOYMENT
-  ↓
-OBSERVABILITY
-  ↓
-RELIABILITY
-```
-
----
-
-# 🤝 Let's Connect
+# Connect
 
 <div align="center">
-
-I'm interested in:
-
-**DevOps • Cloud Engineering • Platform Engineering • Infrastructure Automation**
-
-<br/>
 
 <a href="https://www.linkedin.com/in/hridyen-prashar/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:hridyensharma0@gmail.com">
-<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/hridyen">
-<img src="https://img.shields.io/badge/Explore_My_Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+`DevOps • Cloud • Infrastructure • Automation • Reliability`
 
-<div align="center">
+<br/><br/>
 
-### `Automate what can be automated. Understand what cannot.`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:111827,100:1F2937&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0B1220,100:05070D&height=100&section=footer"/>
 
 </div>
